@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a student at **FPT University HCM** with a pas
 - Shell Scripting (Bash/Zsh)  
 
 **Linux Skills:**  
-- Experienced with **Ubuntu MATE** with **i3**.  
+- Experienced with **Arch**
 - Linux system management using `systemctl`, `journalctl`, and shell scripts.  
 - Custom **Neovim** configurations with advanced plugins and themes.  
 
@@ -41,3 +41,5 @@ Projects are coming soon—stay tuned!
 ---
 
 Thank you for stopping by! Feel free to check out my repositories or reach out if you'd like to collaborate or have questions! 😊  
+
+j
