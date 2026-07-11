@@ -1,45 +1,12 @@
-# Hi there, I'm duu261 👋  
+# Duu
 
-Welcome to my GitHub profile! I'm a student at **FPT University HCM** with a passion for coding, eager to learn new technologies, and always up for a challenge. Here's a bit about me, my skills, and the projects I'm working on.  
+Java BrSE (Bridge SE) student at FPT University, Ho Chi Minh City — Japanese-track backend developer, studying Japanese. Daily driver: Arch Linux + Neovim + tmux.
 
-## 🚀 About Me  
+**Projects**
+- [Parking Building Management System](https://github.com/duu261/Parking-Building-Management-System) — Spring Boot + SQL Server backend, built for FPT's SWP391 course simulating a real team project (REST APIs, separate Vite frontend)
+- **Cornix keyboard → ZMK + Snake Dongle** — converted a stock RMK split keyboard to ZMK, then built a wireless dongle receiver for it: hardware assembly, 3D-printed case, and firmware forks modified to work together ([keyboard firmware](https://github.com/duu261/zmk-keyboard-cornix) · [dongle module](https://github.com/duu261/snake-module))
+- [nvim](https://github.com/duu261/nvim) — my Neovim config, built from scratch in Lua
 
-- 🌱 Currently learning **Java**, **Linux**.  
-- 💖 Passionate about using **Neovim** for development.  
-- 👯 Excited to collaborate on **open source projects** when I’ve more experience.  
-- 💬 Ask me about **Java**, **Neovim**, and **Linux**.  
-- 📫 Reach me at: **vuhn261@gmail.com**  
+**Stack:** Java · Spring Boot · SQL Server · Lua · Bash
 
-## 🛠️ Skills  
-
-**Languages:**  
-- Java  
-- Lua (Customized Neovim plugins)  
-- Shell Scripting (Bash/Zsh)  
-
-**Linux Skills:**  
-- Experienced with **Arch**
-- Linux system management using `systemctl`, `journalctl`, and shell scripts.  
-- Custom **Neovim** configurations with advanced plugins and themes.  
-
-**Tools:**  
-- Neovim  
-- Git & GitHub  
-- Docker  
-- SSH  
-- tmux  
-- Familiar with Linux utilities: `awk`, `sed`, `grep`, `cron`.  
-
-## 📈 GitHub Stats  
-
-![duu261's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duu261&show_icons=true&theme=radical)  
-
-## 📂 Projects  
-
-Projects are coming soon—stay tuned!  
-
----
-
-Thank you for stopping by! Feel free to check out my repositories or reach out if you'd like to collaborate or have questions! 😊  
-
-j
+📫 vuhn261@gmail.com
