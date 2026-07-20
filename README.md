@@ -2,7 +2,7 @@
 
 Java BrSE (Bridge SE) student at FPT University, Ho Chi Minh City — Japanese-track backend developer, studying Japanese. Daily driver: Arch Linux + Neovim + tmux.
 
-**Portfolio: [duu261.indevs.in](https://duu261.indevs.in)** — case studies, not repo links.
+**Portfolio: [duu261.me](https://duu261.me)** — case studies, not repo links.
 
 ## Projects
 
